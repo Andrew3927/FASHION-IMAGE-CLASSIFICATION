@@ -1,4 +1,4 @@
-from kaggle_template.sam_main.example.utility.loading_bar import LoadingBar
+from CNN.CNNModel.utility.loading_bar import LoadingBar
 import time
 
 
